@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'testenetcore'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_89293BB3026141FB8961D6C18F25CD99 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A062B143C1524B6CAE1445C789AA4524 }}
           package: .
